@@ -16,4 +16,24 @@
     [ ] Schinken-Käse Pizza
  > Kühlschrank
     [ ] Sushi
-    [ ] Hummus        
+    [ ] Hummus    
+
+ > Snacks
+    - [ ] Mars
+    - [X] Snickers
+    - [ ] Tackos
+    - [ ] Milchschnitte
+
+> Obst
+    - [X] Bananen
+    - [X] Orangen
+    - [ ] Kakis
+    - [ ] Äpfel Pink Lady
+    - [ ] Erdbeeren
+    - [ ] Heidelbeeren
+
+> Backwaren
+    - [X] Roggenbrot
+    - [ ] Tiefgekühlte Brötchen
+    - [X] Eiweissbrot
+
