@@ -1,21 +1,38 @@
 # Einkaufsliste
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Snacks
+=======
+ > Gemuese
+    [ ] Paprika
+    [ ] Tomaten
+    [ ] Gurke
+    [ ] Pilze
+
+ > Obst
+    [ ] Trauben
+    [ ] Avocado
+    [ ] Bananen
+    [ ] Orangen
+
+ > TK
+    [ ] Buttergemüse
+    [ ] Brokkoli
+    [ ] Schinken-Käse Pizza
+
+ > Kühlschrank
+    [ ] Sushi
+    [ ] Hummus    
+
+ > Snacks
+>>>>>>> 5b42b86cbafb1639d9e8365317e68f5158418f82
     - [ ] Mars
     - [X] Snickers
     - [ ] Tackos
     - [ ] Milchschnitte
 
-- Gemüse
-    - [X] Artischocken
-    - [ ] Sellerie Staude
-    - [X] Zwiebeln
-    - [ ] Süsskartoffeln
-    - [ ] Petersilie
-    - [X] Fenchel
-
-- Obst
+ > Obst
     - [X] Bananen
     - [X] Orangen
     - [ ] Kakis
@@ -23,11 +40,12 @@
     - [ ] Erdbeeren
     - [ ] Heidelbeeren
 
-- Backwaren
+ > Backwaren
     - [X] Roggenbrot
     - [ ] Tiefgekühlte Brötchen
     - [X] Eiweissbrot
 
+<<<<<<< HEAD
 - Technik/Haushalt
     - [X] Batterien AA
     - [ ] Alufolie
@@ -47,3 +65,5 @@
     - [X] Camenbert
   
 =======
+=======
+>>>>>>> 5b42b86cbafb1639d9e8365317e68f5158418f82
