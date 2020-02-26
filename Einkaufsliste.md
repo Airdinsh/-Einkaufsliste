@@ -27,23 +27,23 @@
     - [X] Roggenbrot
     - [ ] Tiefgekühlte Brötchen
     - [X] Eiweissbrot
-=======
-- Milchprodukte
-    - [ ] Butter
-    - [X] Milch fettarm
-    - [ ] Yoghurt mild
-    - [X] Camenbert
+
+- Technik/Haushalt
+    - [X] Batterien AA
+    - [ ] Alufolie
+    - [ ] Müllbeutel
 
 - Tiefkühlprodukte
     - [X] Pommes McCain
     - [ ] Wildlachs
     - [X] Petersilie
     - [ ] Erbsen
-    - [X] Himbeeren
+    - [X] Himbeeren  
 
-- Technik/Haushalt
-    - [X] Batterien AA
-    - [ ] Alufolie
-    - [ ] Müllbeutel
-    
->>>>>>> erdinc
+- Milchprodukte
+    - [ ] Butter
+    - [X] Milch fettarm
+    - [ ] Yoghurt mild
+    - [X] Camenbert
+  
+=======
