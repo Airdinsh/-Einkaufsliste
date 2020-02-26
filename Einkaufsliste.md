@@ -5,15 +5,18 @@
     [ ] Tomaten
     [ ] Gurke
     [ ] Pilze
+
  > Obst
     [ ] Trauben
     [ ] Avocado
     [ ] Bananen
     [ ] Orangen
+
  > TK
     [ ] Buttergemüse
     [ ] Brokkoli
     [ ] Schinken-Käse Pizza
+
  > Kühlschrank
     [ ] Sushi
     [ ] Hummus    
@@ -24,7 +27,7 @@
     - [ ] Tackos
     - [ ] Milchschnitte
 
-> Obst
+ > Obst
     - [X] Bananen
     - [X] Orangen
     - [ ] Kakis
@@ -32,7 +35,7 @@
     - [ ] Erdbeeren
     - [ ] Heidelbeeren
 
-> Backwaren
+ > Backwaren
     - [X] Roggenbrot
     - [ ] Tiefgekühlte Brötchen
     - [X] Eiweissbrot
